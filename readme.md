@@ -37,7 +37,7 @@ If you use this project, modify it, or build on top of it, please credit the ori
 
 **Original project by zivvoz / DashX360**
 
-Do not reupload or redistribute modified versions in a way that makes it look like you created the original project from scratch.
+You are free to modify, experiment with, or build on DashX360, but please credit ZivvoZ as the original creator if you share your version publicly.
 
 ## Legal Notice
 
